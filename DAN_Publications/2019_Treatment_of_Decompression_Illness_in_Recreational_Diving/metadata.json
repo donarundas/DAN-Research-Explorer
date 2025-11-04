@@ -1,0 +1,3217 @@
+{
+  "source_pdf": "2019_Treatment_of_Decompression_Illness_in_Recreational_Diving.pdf",
+  "sha256": "043c451e05c7a11bad30703884e82031c6d45aad07bdf188665b5f21d7ce9784",
+  "created_utc": "2025-11-02T16:00:09.135834Z",
+  "markitdown_version": "unknown",
+  "python": "3.12.6",
+  "os": "macOS-15.6.1-arm64-arm-64bit",
+  "tables": [],
+  "errors": [],
+  "markitdown_metadata": {},
+  "phase2_run": "2025-11-02T16:56:15.446143Z",
+  "tables_found": 228,
+  "table_details": [
+    {
+      "id": "TABLE_01",
+      "page": 6,
+      "engine": "camelot",
+      "file": "table_01_camelot.csv",
+      "rows": 18
+    },
+    {
+      "id": "TABLE_02",
+      "page": 10,
+      "engine": "camelot",
+      "file": "table_02_camelot.csv",
+      "rows": 7
+    },
+    {
+      "id": "TABLE_03",
+      "page": 11,
+      "engine": "camelot",
+      "file": "table_03_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_04",
+      "page": 12,
+      "engine": "camelot",
+      "file": "table_04_camelot.csv",
+      "rows": 4
+    },
+    {
+      "id": "TABLE_05",
+      "page": 12,
+      "engine": "camelot",
+      "file": "table_05_camelot.csv",
+      "rows": 5
+    },
+    {
+      "id": "TABLE_06",
+      "page": 13,
+      "engine": "camelot",
+      "file": "table_06_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_07",
+      "page": 14,
+      "engine": "camelot",
+      "file": "table_07_camelot.csv",
+      "rows": 5
+    },
+    {
+      "id": "TABLE_08",
+      "page": 17,
+      "engine": "camelot",
+      "file": "table_08_camelot.csv",
+      "rows": 5
+    },
+    {
+      "id": "TABLE_09",
+      "page": 18,
+      "engine": "camelot",
+      "file": "table_09_camelot.csv",
+      "rows": 12
+    },
+    {
+      "id": "TABLE_10",
+      "page": 18,
+      "engine": "camelot",
+      "file": "table_10_camelot.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_11",
+      "page": 21,
+      "engine": "camelot",
+      "file": "table_11_camelot.csv",
+      "rows": 4
+    },
+    {
+      "id": "TABLE_12",
+      "page": 22,
+      "engine": "camelot",
+      "file": "table_12_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_13",
+      "page": 23,
+      "engine": "camelot",
+      "file": "table_13_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_14",
+      "page": 23,
+      "engine": "camelot",
+      "file": "table_14_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_15",
+      "page": 26,
+      "engine": "camelot",
+      "file": "table_15_camelot.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_16",
+      "page": 31,
+      "engine": "camelot",
+      "file": "table_16_camelot.csv",
+      "rows": 4
+    },
+    {
+      "id": "TABLE_17",
+      "page": 34,
+      "engine": "camelot",
+      "file": "table_17_camelot.csv",
+      "rows": 1
+    },
+    {
+      "id": "TABLE_18",
+      "page": 37,
+      "engine": "camelot",
+      "file": "table_18_camelot.csv",
+      "rows": 12
+    },
+    {
+      "id": "TABLE_19",
+      "page": 40,
+      "engine": "camelot",
+      "file": "table_19_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_20",
+      "page": 42,
+      "engine": "camelot",
+      "file": "table_20_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_21",
+      "page": 43,
+      "engine": "camelot",
+      "file": "table_21_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_22",
+      "page": 44,
+      "engine": "camelot",
+      "file": "table_22_camelot.csv",
+      "rows": 4
+    },
+    {
+      "id": "TABLE_23",
+      "page": 50,
+      "engine": "camelot",
+      "file": "table_23_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_24",
+      "page": 50,
+      "engine": "camelot",
+      "file": "table_24_camelot.csv",
+      "rows": 4
+    },
+    {
+      "id": "TABLE_25",
+      "page": 51,
+      "engine": "camelot",
+      "file": "table_25_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_26",
+      "page": 51,
+      "engine": "camelot",
+      "file": "table_26_camelot.csv",
+      "rows": 4
+    },
+    {
+      "id": "TABLE_27",
+      "page": 52,
+      "engine": "camelot",
+      "file": "table_27_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_28",
+      "page": 53,
+      "engine": "camelot",
+      "file": "table_28_camelot.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_29",
+      "page": 53,
+      "engine": "camelot",
+      "file": "table_29_camelot.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_30",
+      "page": 53,
+      "engine": "camelot",
+      "file": "table_30_camelot.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_31",
+      "page": 58,
+      "engine": "camelot",
+      "file": "table_31_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_32",
+      "page": 59,
+      "engine": "camelot",
+      "file": "table_32_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_33",
+      "page": 59,
+      "engine": "camelot",
+      "file": "table_33_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_34",
+      "page": 60,
+      "engine": "camelot",
+      "file": "table_34_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_35",
+      "page": 61,
+      "engine": "camelot",
+      "file": "table_35_camelot.csv",
+      "rows": 5
+    },
+    {
+      "id": "TABLE_36",
+      "page": 61,
+      "engine": "camelot",
+      "file": "table_36_camelot.csv",
+      "rows": 4
+    },
+    {
+      "id": "TABLE_37",
+      "page": 63,
+      "engine": "camelot",
+      "file": "table_37_camelot.csv",
+      "rows": 4
+    },
+    {
+      "id": "TABLE_38",
+      "page": 63,
+      "engine": "camelot",
+      "file": "table_38_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_39",
+      "page": 67,
+      "engine": "camelot",
+      "file": "table_39_camelot.csv",
+      "rows": 5
+    },
+    {
+      "id": "TABLE_40",
+      "page": 68,
+      "engine": "camelot",
+      "file": "table_40_camelot.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_41",
+      "page": 68,
+      "engine": "camelot",
+      "file": "table_41_camelot.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_42",
+      "page": 69,
+      "engine": "camelot",
+      "file": "table_42_camelot.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_43",
+      "page": 69,
+      "engine": "camelot",
+      "file": "table_43_camelot.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_44",
+      "page": 69,
+      "engine": "camelot",
+      "file": "table_44_camelot.csv",
+      "rows": 1
+    },
+    {
+      "id": "TABLE_45",
+      "page": 70,
+      "engine": "camelot",
+      "file": "table_45_camelot.csv",
+      "rows": 8
+    },
+    {
+      "id": "TABLE_46",
+      "page": 71,
+      "engine": "camelot",
+      "file": "table_46_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_47",
+      "page": 73,
+      "engine": "camelot",
+      "file": "table_47_camelot.csv",
+      "rows": 5
+    },
+    {
+      "id": "TABLE_48",
+      "page": 74,
+      "engine": "camelot",
+      "file": "table_48_camelot.csv",
+      "rows": 4
+    },
+    {
+      "id": "TABLE_49",
+      "page": 74,
+      "engine": "camelot",
+      "file": "table_49_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_50",
+      "page": 76,
+      "engine": "camelot",
+      "file": "table_50_camelot.csv",
+      "rows": 1
+    },
+    {
+      "id": "TABLE_51",
+      "page": 81,
+      "engine": "camelot",
+      "file": "table_51_camelot.csv",
+      "rows": 7
+    },
+    {
+      "id": "TABLE_52",
+      "page": 82,
+      "engine": "camelot",
+      "file": "table_52_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_53",
+      "page": 84,
+      "engine": "camelot",
+      "file": "table_53_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_54",
+      "page": 85,
+      "engine": "camelot",
+      "file": "table_54_camelot.csv",
+      "rows": 4
+    },
+    {
+      "id": "TABLE_55",
+      "page": 86,
+      "engine": "camelot",
+      "file": "table_55_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_56",
+      "page": 87,
+      "engine": "camelot",
+      "file": "table_56_camelot.csv",
+      "rows": 8
+    },
+    {
+      "id": "TABLE_57",
+      "page": 88,
+      "engine": "camelot",
+      "file": "table_57_camelot.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_58",
+      "page": 88,
+      "engine": "camelot",
+      "file": "table_58_camelot.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_59",
+      "page": 90,
+      "engine": "camelot",
+      "file": "table_59_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_60",
+      "page": 91,
+      "engine": "camelot",
+      "file": "table_60_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_61",
+      "page": 92,
+      "engine": "camelot",
+      "file": "table_61_camelot.csv",
+      "rows": 4
+    },
+    {
+      "id": "TABLE_62",
+      "page": 104,
+      "engine": "camelot",
+      "file": "table_62_camelot.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_63",
+      "page": 1,
+      "engine": "camelot",
+      "file": "table_63_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_64",
+      "page": 2,
+      "engine": "camelot",
+      "file": "table_64_camelot.csv",
+      "rows": 7
+    },
+    {
+      "id": "TABLE_65",
+      "page": 3,
+      "engine": "camelot",
+      "file": "table_65_camelot.csv",
+      "rows": 26
+    },
+    {
+      "id": "TABLE_66",
+      "page": 4,
+      "engine": "camelot",
+      "file": "table_66_camelot.csv",
+      "rows": 15
+    },
+    {
+      "id": "TABLE_67",
+      "page": 5,
+      "engine": "camelot",
+      "file": "table_67_camelot.csv",
+      "rows": 26
+    },
+    {
+      "id": "TABLE_68",
+      "page": 6,
+      "engine": "camelot",
+      "file": "table_68_camelot.csv",
+      "rows": 25
+    },
+    {
+      "id": "TABLE_69",
+      "page": 7,
+      "engine": "camelot",
+      "file": "table_69_camelot.csv",
+      "rows": 40
+    },
+    {
+      "id": "TABLE_70",
+      "page": 8,
+      "engine": "camelot",
+      "file": "table_70_camelot.csv",
+      "rows": 52
+    },
+    {
+      "id": "TABLE_71",
+      "page": 9,
+      "engine": "camelot",
+      "file": "table_71_camelot.csv",
+      "rows": 23
+    },
+    {
+      "id": "TABLE_72",
+      "page": 10,
+      "engine": "camelot",
+      "file": "table_72_camelot.csv",
+      "rows": 36
+    },
+    {
+      "id": "TABLE_73",
+      "page": 11,
+      "engine": "camelot",
+      "file": "table_73_camelot.csv",
+      "rows": 33
+    },
+    {
+      "id": "TABLE_74",
+      "page": 12,
+      "engine": "camelot",
+      "file": "table_74_camelot.csv",
+      "rows": 29
+    },
+    {
+      "id": "TABLE_75",
+      "page": 13,
+      "engine": "camelot",
+      "file": "table_75_camelot.csv",
+      "rows": 17
+    },
+    {
+      "id": "TABLE_76",
+      "page": 13,
+      "engine": "camelot",
+      "file": "table_76_camelot.csv",
+      "rows": 15
+    },
+    {
+      "id": "TABLE_77",
+      "page": 13,
+      "engine": "camelot",
+      "file": "table_77_camelot.csv",
+      "rows": 35
+    },
+    {
+      "id": "TABLE_78",
+      "page": 14,
+      "engine": "camelot",
+      "file": "table_78_camelot.csv",
+      "rows": 39
+    },
+    {
+      "id": "TABLE_79",
+      "page": 15,
+      "engine": "camelot",
+      "file": "table_79_camelot.csv",
+      "rows": 32
+    },
+    {
+      "id": "TABLE_80",
+      "page": 16,
+      "engine": "camelot",
+      "file": "table_80_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_81",
+      "page": 17,
+      "engine": "camelot",
+      "file": "table_81_camelot.csv",
+      "rows": 24
+    },
+    {
+      "id": "TABLE_82",
+      "page": 17,
+      "engine": "camelot",
+      "file": "table_82_camelot.csv",
+      "rows": 15
+    },
+    {
+      "id": "TABLE_83",
+      "page": 17,
+      "engine": "camelot",
+      "file": "table_83_camelot.csv",
+      "rows": 18
+    },
+    {
+      "id": "TABLE_84",
+      "page": 18,
+      "engine": "camelot",
+      "file": "table_84_camelot.csv",
+      "rows": 17
+    },
+    {
+      "id": "TABLE_85",
+      "page": 18,
+      "engine": "camelot",
+      "file": "table_85_camelot.csv",
+      "rows": 14
+    },
+    {
+      "id": "TABLE_86",
+      "page": 18,
+      "engine": "camelot",
+      "file": "table_86_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_87",
+      "page": 19,
+      "engine": "camelot",
+      "file": "table_87_camelot.csv",
+      "rows": 41
+    },
+    {
+      "id": "TABLE_88",
+      "page": 19,
+      "engine": "camelot",
+      "file": "table_88_camelot.csv",
+      "rows": 58
+    },
+    {
+      "id": "TABLE_89",
+      "page": 20,
+      "engine": "camelot",
+      "file": "table_89_camelot.csv",
+      "rows": 49
+    },
+    {
+      "id": "TABLE_90",
+      "page": 21,
+      "engine": "camelot",
+      "file": "table_90_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_91",
+      "page": 22,
+      "engine": "camelot",
+      "file": "table_91_camelot.csv",
+      "rows": 34
+    },
+    {
+      "id": "TABLE_92",
+      "page": 23,
+      "engine": "camelot",
+      "file": "table_92_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_93",
+      "page": 24,
+      "engine": "camelot",
+      "file": "table_93_camelot.csv",
+      "rows": 28
+    },
+    {
+      "id": "TABLE_94",
+      "page": 25,
+      "engine": "camelot",
+      "file": "table_94_camelot.csv",
+      "rows": 54
+    },
+    {
+      "id": "TABLE_95",
+      "page": 26,
+      "engine": "camelot",
+      "file": "table_95_camelot.csv",
+      "rows": 39
+    },
+    {
+      "id": "TABLE_96",
+      "page": 27,
+      "engine": "camelot",
+      "file": "table_96_camelot.csv",
+      "rows": 27
+    },
+    {
+      "id": "TABLE_97",
+      "page": 28,
+      "engine": "camelot",
+      "file": "table_97_camelot.csv",
+      "rows": 11
+    },
+    {
+      "id": "TABLE_98",
+      "page": 28,
+      "engine": "camelot",
+      "file": "table_98_camelot.csv",
+      "rows": 52
+    },
+    {
+      "id": "TABLE_99",
+      "page": 29,
+      "engine": "camelot",
+      "file": "table_99_camelot.csv",
+      "rows": 50
+    },
+    {
+      "id": "TABLE_100",
+      "page": 30,
+      "engine": "camelot",
+      "file": "table_100_camelot.csv",
+      "rows": 25
+    },
+    {
+      "id": "TABLE_101",
+      "page": 31,
+      "engine": "camelot",
+      "file": "table_101_camelot.csv",
+      "rows": 34
+    },
+    {
+      "id": "TABLE_102",
+      "page": 32,
+      "engine": "camelot",
+      "file": "table_102_camelot.csv",
+      "rows": 67
+    },
+    {
+      "id": "TABLE_103",
+      "page": 33,
+      "engine": "camelot",
+      "file": "table_103_camelot.csv",
+      "rows": 28
+    },
+    {
+      "id": "TABLE_104",
+      "page": 34,
+      "engine": "camelot",
+      "file": "table_104_camelot.csv",
+      "rows": 36
+    },
+    {
+      "id": "TABLE_105",
+      "page": 35,
+      "engine": "camelot",
+      "file": "table_105_camelot.csv",
+      "rows": 98
+    },
+    {
+      "id": "TABLE_106",
+      "page": 36,
+      "engine": "camelot",
+      "file": "table_106_camelot.csv",
+      "rows": 11
+    },
+    {
+      "id": "TABLE_107",
+      "page": 36,
+      "engine": "camelot",
+      "file": "table_107_camelot.csv",
+      "rows": 20
+    },
+    {
+      "id": "TABLE_108",
+      "page": 37,
+      "engine": "camelot",
+      "file": "table_108_camelot.csv",
+      "rows": 15
+    },
+    {
+      "id": "TABLE_109",
+      "page": 38,
+      "engine": "camelot",
+      "file": "table_109_camelot.csv",
+      "rows": 22
+    },
+    {
+      "id": "TABLE_110",
+      "page": 38,
+      "engine": "camelot",
+      "file": "table_110_camelot.csv",
+      "rows": 14
+    },
+    {
+      "id": "TABLE_111",
+      "page": 38,
+      "engine": "camelot",
+      "file": "table_111_camelot.csv",
+      "rows": 47
+    },
+    {
+      "id": "TABLE_112",
+      "page": 39,
+      "engine": "camelot",
+      "file": "table_112_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_113",
+      "page": 40,
+      "engine": "camelot",
+      "file": "table_113_camelot.csv",
+      "rows": 9
+    },
+    {
+      "id": "TABLE_114",
+      "page": 41,
+      "engine": "camelot",
+      "file": "table_114_camelot.csv",
+      "rows": 11
+    },
+    {
+      "id": "TABLE_115",
+      "page": 41,
+      "engine": "camelot",
+      "file": "table_115_camelot.csv",
+      "rows": 52
+    },
+    {
+      "id": "TABLE_116",
+      "page": 42,
+      "engine": "camelot",
+      "file": "table_116_camelot.csv",
+      "rows": 32
+    },
+    {
+      "id": "TABLE_117",
+      "page": 43,
+      "engine": "camelot",
+      "file": "table_117_camelot.csv",
+      "rows": 7
+    },
+    {
+      "id": "TABLE_118",
+      "page": 43,
+      "engine": "camelot",
+      "file": "table_118_camelot.csv",
+      "rows": 37
+    },
+    {
+      "id": "TABLE_119",
+      "page": 44,
+      "engine": "camelot",
+      "file": "table_119_camelot.csv",
+      "rows": 12
+    },
+    {
+      "id": "TABLE_120",
+      "page": 44,
+      "engine": "camelot",
+      "file": "table_120_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_121",
+      "page": 44,
+      "engine": "camelot",
+      "file": "table_121_camelot.csv",
+      "rows": 20
+    },
+    {
+      "id": "TABLE_122",
+      "page": 45,
+      "engine": "camelot",
+      "file": "table_122_camelot.csv",
+      "rows": 12
+    },
+    {
+      "id": "TABLE_123",
+      "page": 45,
+      "engine": "camelot",
+      "file": "table_123_camelot.csv",
+      "rows": 38
+    },
+    {
+      "id": "TABLE_124",
+      "page": 46,
+      "engine": "camelot",
+      "file": "table_124_camelot.csv",
+      "rows": 55
+    },
+    {
+      "id": "TABLE_125",
+      "page": 47,
+      "engine": "camelot",
+      "file": "table_125_camelot.csv",
+      "rows": 78
+    },
+    {
+      "id": "TABLE_126",
+      "page": 48,
+      "engine": "camelot",
+      "file": "table_126_camelot.csv",
+      "rows": 30
+    },
+    {
+      "id": "TABLE_127",
+      "page": 49,
+      "engine": "camelot",
+      "file": "table_127_camelot.csv",
+      "rows": 57
+    },
+    {
+      "id": "TABLE_128",
+      "page": 50,
+      "engine": "camelot",
+      "file": "table_128_camelot.csv",
+      "rows": 22
+    },
+    {
+      "id": "TABLE_129",
+      "page": 51,
+      "engine": "camelot",
+      "file": "table_129_camelot.csv",
+      "rows": 26
+    },
+    {
+      "id": "TABLE_130",
+      "page": 52,
+      "engine": "camelot",
+      "file": "table_130_camelot.csv",
+      "rows": 31
+    },
+    {
+      "id": "TABLE_131",
+      "page": 53,
+      "engine": "camelot",
+      "file": "table_131_camelot.csv",
+      "rows": 17
+    },
+    {
+      "id": "TABLE_132",
+      "page": 54,
+      "engine": "camelot",
+      "file": "table_132_camelot.csv",
+      "rows": 59
+    },
+    {
+      "id": "TABLE_133",
+      "page": 55,
+      "engine": "camelot",
+      "file": "table_133_camelot.csv",
+      "rows": 39
+    },
+    {
+      "id": "TABLE_134",
+      "page": 55,
+      "engine": "camelot",
+      "file": "table_134_camelot.csv",
+      "rows": 92
+    },
+    {
+      "id": "TABLE_135",
+      "page": 56,
+      "engine": "camelot",
+      "file": "table_135_camelot.csv",
+      "rows": 77
+    },
+    {
+      "id": "TABLE_136",
+      "page": 57,
+      "engine": "camelot",
+      "file": "table_136_camelot.csv",
+      "rows": 28
+    },
+    {
+      "id": "TABLE_137",
+      "page": 58,
+      "engine": "camelot",
+      "file": "table_137_camelot.csv",
+      "rows": 27
+    },
+    {
+      "id": "TABLE_138",
+      "page": 59,
+      "engine": "camelot",
+      "file": "table_138_camelot.csv",
+      "rows": 12
+    },
+    {
+      "id": "TABLE_139",
+      "page": 60,
+      "engine": "camelot",
+      "file": "table_139_camelot.csv",
+      "rows": 15
+    },
+    {
+      "id": "TABLE_140",
+      "page": 61,
+      "engine": "camelot",
+      "file": "table_140_camelot.csv",
+      "rows": 28
+    },
+    {
+      "id": "TABLE_141",
+      "page": 62,
+      "engine": "camelot",
+      "file": "table_141_camelot.csv",
+      "rows": 31
+    },
+    {
+      "id": "TABLE_142",
+      "page": 63,
+      "engine": "camelot",
+      "file": "table_142_camelot.csv",
+      "rows": 13
+    },
+    {
+      "id": "TABLE_143",
+      "page": 64,
+      "engine": "camelot",
+      "file": "table_143_camelot.csv",
+      "rows": 100
+    },
+    {
+      "id": "TABLE_144",
+      "page": 65,
+      "engine": "camelot",
+      "file": "table_144_camelot.csv",
+      "rows": 57
+    },
+    {
+      "id": "TABLE_145",
+      "page": 66,
+      "engine": "camelot",
+      "file": "table_145_camelot.csv",
+      "rows": 59
+    },
+    {
+      "id": "TABLE_146",
+      "page": 67,
+      "engine": "camelot",
+      "file": "table_146_camelot.csv",
+      "rows": 20
+    },
+    {
+      "id": "TABLE_147",
+      "page": 68,
+      "engine": "camelot",
+      "file": "table_147_camelot.csv",
+      "rows": 51
+    },
+    {
+      "id": "TABLE_148",
+      "page": 69,
+      "engine": "camelot",
+      "file": "table_148_camelot.csv",
+      "rows": 21
+    },
+    {
+      "id": "TABLE_149",
+      "page": 70,
+      "engine": "camelot",
+      "file": "table_149_camelot.csv",
+      "rows": 30
+    },
+    {
+      "id": "TABLE_150",
+      "page": 71,
+      "engine": "camelot",
+      "file": "table_150_camelot.csv",
+      "rows": 48
+    },
+    {
+      "id": "TABLE_151",
+      "page": 71,
+      "engine": "camelot",
+      "file": "table_151_camelot.csv",
+      "rows": 7
+    },
+    {
+      "id": "TABLE_152",
+      "page": 72,
+      "engine": "camelot",
+      "file": "table_152_camelot.csv",
+      "rows": 54
+    },
+    {
+      "id": "TABLE_153",
+      "page": 73,
+      "engine": "camelot",
+      "file": "table_153_camelot.csv",
+      "rows": 12
+    },
+    {
+      "id": "TABLE_154",
+      "page": 74,
+      "engine": "camelot",
+      "file": "table_154_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_155",
+      "page": 74,
+      "engine": "camelot",
+      "file": "table_155_camelot.csv",
+      "rows": 11
+    },
+    {
+      "id": "TABLE_156",
+      "page": 74,
+      "engine": "camelot",
+      "file": "table_156_camelot.csv",
+      "rows": 24
+    },
+    {
+      "id": "TABLE_157",
+      "page": 75,
+      "engine": "camelot",
+      "file": "table_157_camelot.csv",
+      "rows": 20
+    },
+    {
+      "id": "TABLE_158",
+      "page": 75,
+      "engine": "camelot",
+      "file": "table_158_camelot.csv",
+      "rows": 59
+    },
+    {
+      "id": "TABLE_159",
+      "page": 76,
+      "engine": "camelot",
+      "file": "table_159_camelot.csv",
+      "rows": 32
+    },
+    {
+      "id": "TABLE_160",
+      "page": 76,
+      "engine": "camelot",
+      "file": "table_160_camelot.csv",
+      "rows": 89
+    },
+    {
+      "id": "TABLE_161",
+      "page": 77,
+      "engine": "camelot",
+      "file": "table_161_camelot.csv",
+      "rows": 16
+    },
+    {
+      "id": "TABLE_162",
+      "page": 77,
+      "engine": "camelot",
+      "file": "table_162_camelot.csv",
+      "rows": 91
+    },
+    {
+      "id": "TABLE_163",
+      "page": 78,
+      "engine": "camelot",
+      "file": "table_163_camelot.csv",
+      "rows": 42
+    },
+    {
+      "id": "TABLE_164",
+      "page": 78,
+      "engine": "camelot",
+      "file": "table_164_camelot.csv",
+      "rows": 81
+    },
+    {
+      "id": "TABLE_165",
+      "page": 79,
+      "engine": "camelot",
+      "file": "table_165_camelot.csv",
+      "rows": 81
+    },
+    {
+      "id": "TABLE_166",
+      "page": 80,
+      "engine": "camelot",
+      "file": "table_166_camelot.csv",
+      "rows": 12
+    },
+    {
+      "id": "TABLE_167",
+      "page": 81,
+      "engine": "camelot",
+      "file": "table_167_camelot.csv",
+      "rows": 28
+    },
+    {
+      "id": "TABLE_168",
+      "page": 82,
+      "engine": "camelot",
+      "file": "table_168_camelot.csv",
+      "rows": 25
+    },
+    {
+      "id": "TABLE_169",
+      "page": 82,
+      "engine": "camelot",
+      "file": "table_169_camelot.csv",
+      "rows": 8
+    },
+    {
+      "id": "TABLE_170",
+      "page": 83,
+      "engine": "camelot",
+      "file": "table_170_camelot.csv",
+      "rows": 29
+    },
+    {
+      "id": "TABLE_171",
+      "page": 84,
+      "engine": "camelot",
+      "file": "table_171_camelot.csv",
+      "rows": 16
+    },
+    {
+      "id": "TABLE_172",
+      "page": 84,
+      "engine": "camelot",
+      "file": "table_172_camelot.csv",
+      "rows": 15
+    },
+    {
+      "id": "TABLE_173",
+      "page": 85,
+      "engine": "camelot",
+      "file": "table_173_camelot.csv",
+      "rows": 16
+    },
+    {
+      "id": "TABLE_174",
+      "page": 85,
+      "engine": "camelot",
+      "file": "table_174_camelot.csv",
+      "rows": 30
+    },
+    {
+      "id": "TABLE_175",
+      "page": 86,
+      "engine": "camelot",
+      "file": "table_175_camelot.csv",
+      "rows": 27
+    },
+    {
+      "id": "TABLE_176",
+      "page": 87,
+      "engine": "camelot",
+      "file": "table_176_camelot.csv",
+      "rows": 29
+    },
+    {
+      "id": "TABLE_177",
+      "page": 88,
+      "engine": "camelot",
+      "file": "table_177_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_178",
+      "page": 88,
+      "engine": "camelot",
+      "file": "table_178_camelot.csv",
+      "rows": 14
+    },
+    {
+      "id": "TABLE_179",
+      "page": 89,
+      "engine": "camelot",
+      "file": "table_179_camelot.csv",
+      "rows": 9
+    },
+    {
+      "id": "TABLE_180",
+      "page": 89,
+      "engine": "camelot",
+      "file": "table_180_camelot.csv",
+      "rows": 31
+    },
+    {
+      "id": "TABLE_181",
+      "page": 90,
+      "engine": "camelot",
+      "file": "table_181_camelot.csv",
+      "rows": 11
+    },
+    {
+      "id": "TABLE_182",
+      "page": 90,
+      "engine": "camelot",
+      "file": "table_182_camelot.csv",
+      "rows": 15
+    },
+    {
+      "id": "TABLE_183",
+      "page": 91,
+      "engine": "camelot",
+      "file": "table_183_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_184",
+      "page": 92,
+      "engine": "camelot",
+      "file": "table_184_camelot.csv",
+      "rows": 9
+    },
+    {
+      "id": "TABLE_185",
+      "page": 92,
+      "engine": "camelot",
+      "file": "table_185_camelot.csv",
+      "rows": 12
+    },
+    {
+      "id": "TABLE_186",
+      "page": 93,
+      "engine": "camelot",
+      "file": "table_186_camelot.csv",
+      "rows": 25
+    },
+    {
+      "id": "TABLE_187",
+      "page": 94,
+      "engine": "camelot",
+      "file": "table_187_camelot.csv",
+      "rows": 8
+    },
+    {
+      "id": "TABLE_188",
+      "page": 95,
+      "engine": "camelot",
+      "file": "table_188_camelot.csv",
+      "rows": 32
+    },
+    {
+      "id": "TABLE_189",
+      "page": 96,
+      "engine": "camelot",
+      "file": "table_189_camelot.csv",
+      "rows": 32
+    },
+    {
+      "id": "TABLE_190",
+      "page": 97,
+      "engine": "camelot",
+      "file": "table_190_camelot.csv",
+      "rows": 52
+    },
+    {
+      "id": "TABLE_191",
+      "page": 98,
+      "engine": "camelot",
+      "file": "table_191_camelot.csv",
+      "rows": 58
+    },
+    {
+      "id": "TABLE_192",
+      "page": 99,
+      "engine": "camelot",
+      "file": "table_192_camelot.csv",
+      "rows": 28
+    },
+    {
+      "id": "TABLE_193",
+      "page": 100,
+      "engine": "camelot",
+      "file": "table_193_camelot.csv",
+      "rows": 44
+    },
+    {
+      "id": "TABLE_194",
+      "page": 100,
+      "engine": "camelot",
+      "file": "table_194_camelot.csv",
+      "rows": 92
+    },
+    {
+      "id": "TABLE_195",
+      "page": 101,
+      "engine": "camelot",
+      "file": "table_195_camelot.csv",
+      "rows": 59
+    },
+    {
+      "id": "TABLE_196",
+      "page": 101,
+      "engine": "camelot",
+      "file": "table_196_camelot.csv",
+      "rows": 23
+    },
+    {
+      "id": "TABLE_197",
+      "page": 102,
+      "engine": "camelot",
+      "file": "table_197_camelot.csv",
+      "rows": 28
+    },
+    {
+      "id": "TABLE_198",
+      "page": 102,
+      "engine": "camelot",
+      "file": "table_198_camelot.csv",
+      "rows": 58
+    },
+    {
+      "id": "TABLE_199",
+      "page": 103,
+      "engine": "camelot",
+      "file": "table_199_camelot.csv",
+      "rows": 20
+    },
+    {
+      "id": "TABLE_200",
+      "page": 103,
+      "engine": "camelot",
+      "file": "table_200_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_201",
+      "page": 103,
+      "engine": "camelot",
+      "file": "table_201_camelot.csv",
+      "rows": 23
+    },
+    {
+      "id": "TABLE_202",
+      "page": 104,
+      "engine": "camelot",
+      "file": "table_202_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_203",
+      "page": 105,
+      "engine": "camelot",
+      "file": "table_203_camelot.csv",
+      "rows": 53
+    },
+    {
+      "id": "TABLE_204",
+      "page": 106,
+      "engine": "camelot",
+      "file": "table_204_camelot.csv",
+      "rows": 59
+    },
+    {
+      "id": "TABLE_205",
+      "page": 107,
+      "engine": "camelot",
+      "file": "table_205_camelot.csv",
+      "rows": 68
+    },
+    {
+      "id": "TABLE_206",
+      "page": 108,
+      "engine": "camelot",
+      "file": "table_206_camelot.csv",
+      "rows": 50
+    },
+    {
+      "id": "TABLE_207",
+      "page": 110,
+      "engine": "camelot",
+      "file": "table_207_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_208",
+      "page": 6,
+      "engine": "pdfplumber",
+      "file": "table_208_pdfplumber.csv",
+      "rows": 18
+    },
+    {
+      "id": "TABLE_209",
+      "page": 10,
+      "engine": "pdfplumber",
+      "file": "table_209_pdfplumber.csv",
+      "rows": 1
+    },
+    {
+      "id": "TABLE_210",
+      "page": 12,
+      "engine": "pdfplumber",
+      "file": "table_210_pdfplumber.csv",
+      "rows": 3
+    },
+    {
+      "id": "TABLE_211",
+      "page": 14,
+      "engine": "pdfplumber",
+      "file": "table_211_pdfplumber.csv",
+      "rows": 5
+    },
+    {
+      "id": "TABLE_212",
+      "page": 17,
+      "engine": "pdfplumber",
+      "file": "table_212_pdfplumber.csv",
+      "rows": 5
+    },
+    {
+      "id": "TABLE_213",
+      "page": 18,
+      "engine": "pdfplumber",
+      "file": "table_213_pdfplumber.csv",
+      "rows": 1
+    },
+    {
+      "id": "TABLE_214",
+      "page": 18,
+      "engine": "pdfplumber",
+      "file": "table_214_pdfplumber.csv",
+      "rows": 9
+    },
+    {
+      "id": "TABLE_215",
+      "page": 18,
+      "engine": "pdfplumber",
+      "file": "table_215_pdfplumber.csv",
+      "rows": 1
+    },
+    {
+      "id": "TABLE_216",
+      "page": 39,
+      "engine": "pdfplumber",
+      "file": "table_216_pdfplumber.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_217",
+      "page": 39,
+      "engine": "pdfplumber",
+      "file": "table_217_pdfplumber.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_218",
+      "page": 40,
+      "engine": "pdfplumber",
+      "file": "table_218_pdfplumber.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_219",
+      "page": 40,
+      "engine": "pdfplumber",
+      "file": "table_219_pdfplumber.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_220",
+      "page": 42,
+      "engine": "pdfplumber",
+      "file": "table_220_pdfplumber.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_221",
+      "page": 42,
+      "engine": "pdfplumber",
+      "file": "table_221_pdfplumber.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_222",
+      "page": 42,
+      "engine": "pdfplumber",
+      "file": "table_222_pdfplumber.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_223",
+      "page": 42,
+      "engine": "pdfplumber",
+      "file": "table_223_pdfplumber.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_224",
+      "page": 42,
+      "engine": "pdfplumber",
+      "file": "table_224_pdfplumber.csv",
+      "rows": 1
+    },
+    {
+      "id": "TABLE_225",
+      "page": 42,
+      "engine": "pdfplumber",
+      "file": "table_225_pdfplumber.csv",
+      "rows": 1
+    },
+    {
+      "id": "TABLE_226",
+      "page": 62,
+      "engine": "pdfplumber",
+      "file": "table_226_pdfplumber.csv",
+      "rows": 1
+    },
+    {
+      "id": "TABLE_227",
+      "page": 71,
+      "engine": "pdfplumber",
+      "file": "table_227_pdfplumber.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_228",
+      "page": 103,
+      "engine": "pdfplumber",
+      "file": "table_228_pdfplumber.csv",
+      "rows": 10
+    }
+  ],
+  "images_found": 229,
+  "image_details": [
+    {
+      "file": "figure_01_page1.jpeg",
+      "page": 1,
+      "width": 2451,
+      "height": 3213,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_02_page1.png",
+      "page": 1,
+      "width": 215,
+      "height": 371,
+      "ext": "png"
+    },
+    {
+      "file": "figure_03_page1.jpeg",
+      "page": 1,
+      "width": 1795,
+      "height": 346,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_04_page1.png",
+      "page": 1,
+      "width": 140,
+      "height": 460,
+      "ext": "png"
+    },
+    {
+      "file": "figure_05_page1.jpeg",
+      "page": 1,
+      "width": 1657,
+      "height": 231,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_06_page1.png",
+      "page": 1,
+      "width": 856,
+      "height": 603,
+      "ext": "png"
+    },
+    {
+      "file": "figure_07_page1.png",
+      "page": 1,
+      "width": 259,
+      "height": 421,
+      "ext": "png"
+    },
+    {
+      "file": "figure_08_page1.png",
+      "page": 1,
+      "width": 393,
+      "height": 603,
+      "ext": "png"
+    },
+    {
+      "file": "figure_09_page9.jpeg",
+      "page": 9,
+      "width": 573,
+      "height": 770,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_10_page10.jpeg",
+      "page": 10,
+      "width": 1413,
+      "height": 609,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_11_page10.jpeg",
+      "page": 10,
+      "width": 1413,
+      "height": 304,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_12_page10.jpeg",
+      "page": 10,
+      "width": 200,
+      "height": 267,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_13_page11.png",
+      "page": 11,
+      "width": 661,
+      "height": 420,
+      "ext": "png"
+    },
+    {
+      "file": "figure_14_page11.png",
+      "page": 11,
+      "width": 719,
+      "height": 349,
+      "ext": "png"
+    },
+    {
+      "file": "figure_15_page11.jpeg",
+      "page": 11,
+      "width": 871,
+      "height": 440,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_16_page12.png",
+      "page": 12,
+      "width": 1100,
+      "height": 822,
+      "ext": "png"
+    },
+    {
+      "file": "figure_17_page12.png",
+      "page": 12,
+      "width": 976,
+      "height": 559,
+      "ext": "png"
+    },
+    {
+      "file": "figure_18_page12.png",
+      "page": 12,
+      "width": 268,
+      "height": 108,
+      "ext": "png"
+    },
+    {
+      "file": "figure_19_page13.png",
+      "page": 13,
+      "width": 600,
+      "height": 441,
+      "ext": "png"
+    },
+    {
+      "file": "figure_20_page14.jpeg",
+      "page": 14,
+      "width": 654,
+      "height": 246,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_21_page14.jpeg",
+      "page": 14,
+      "width": 654,
+      "height": 246,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_22_page14.jpeg",
+      "page": 14,
+      "width": 325,
+      "height": 235,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_23_page14.jpeg",
+      "page": 14,
+      "width": 731,
+      "height": 221,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_24_page14.jpeg",
+      "page": 14,
+      "width": 731,
+      "height": 221,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_25_page18.png",
+      "page": 18,
+      "width": 441,
+      "height": 276,
+      "ext": "png"
+    },
+    {
+      "file": "figure_26_page18.png",
+      "page": 18,
+      "width": 805,
+      "height": 395,
+      "ext": "png"
+    },
+    {
+      "file": "figure_27_page18.jpeg",
+      "page": 18,
+      "width": 2342,
+      "height": 307,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_28_page18.jpeg",
+      "page": 18,
+      "width": 2342,
+      "height": 307,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_29_page18.jpeg",
+      "page": 18,
+      "width": 2342,
+      "height": 306,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_30_page21.jpeg",
+      "page": 21,
+      "width": 1502,
+      "height": 1127,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_31_page21.png",
+      "page": 21,
+      "width": 1353,
+      "height": 1005,
+      "ext": "png"
+    },
+    {
+      "file": "figure_32_page22.png",
+      "page": 22,
+      "width": 1498,
+      "height": 1039,
+      "ext": "png"
+    },
+    {
+      "file": "figure_33_page23.png",
+      "page": 23,
+      "width": 1504,
+      "height": 1039,
+      "ext": "png"
+    },
+    {
+      "file": "figure_34_page23.png",
+      "page": 23,
+      "width": 1504,
+      "height": 1047,
+      "ext": "png"
+    },
+    {
+      "file": "figure_35_page24.png",
+      "page": 24,
+      "width": 1414,
+      "height": 1127,
+      "ext": "png"
+    },
+    {
+      "file": "figure_36_page26.jpeg",
+      "page": 26,
+      "width": 1353,
+      "height": 963,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_37_page27.png",
+      "page": 27,
+      "width": 1219,
+      "height": 815,
+      "ext": "png"
+    },
+    {
+      "file": "figure_38_page31.jpeg",
+      "page": 31,
+      "width": 2152,
+      "height": 678,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_39_page31.png",
+      "page": 31,
+      "width": 2152,
+      "height": 338,
+      "ext": "png"
+    },
+    {
+      "file": "figure_40_page34.png",
+      "page": 34,
+      "width": 12004,
+      "height": 1,
+      "ext": "png"
+    },
+    {
+      "file": "figure_41_page34.png",
+      "page": 34,
+      "width": 389,
+      "height": 372,
+      "ext": "png"
+    },
+    {
+      "file": "figure_42_page37.jpeg",
+      "page": 37,
+      "width": 1184,
+      "height": 773,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_43_page37.jpeg",
+      "page": 37,
+      "width": 1184,
+      "height": 773,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_44_page43.jpeg",
+      "page": 43,
+      "width": 409,
+      "height": 603,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_45_page50.png",
+      "page": 50,
+      "width": 970,
+      "height": 688,
+      "ext": "png"
+    },
+    {
+      "file": "figure_46_page50.jpeg",
+      "page": 50,
+      "width": 707,
+      "height": 336,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_47_page51.jpeg",
+      "page": 51,
+      "width": 681,
+      "height": 298,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_48_page51.png",
+      "page": 51,
+      "width": 1100,
+      "height": 952,
+      "ext": "png"
+    },
+    {
+      "file": "figure_49_page51.png",
+      "page": 51,
+      "width": 978,
+      "height": 339,
+      "ext": "png"
+    },
+    {
+      "file": "figure_50_page52.png",
+      "page": 52,
+      "width": 1200,
+      "height": 588,
+      "ext": "png"
+    },
+    {
+      "file": "figure_51_page52.png",
+      "page": 52,
+      "width": 970,
+      "height": 413,
+      "ext": "png"
+    },
+    {
+      "file": "figure_52_page53.jpeg",
+      "page": 53,
+      "width": 607,
+      "height": 452,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_53_page53.png",
+      "page": 53,
+      "width": 557,
+      "height": 357,
+      "ext": "png"
+    },
+    {
+      "file": "figure_54_page53.png",
+      "page": 53,
+      "width": 554,
+      "height": 369,
+      "ext": "png"
+    },
+    {
+      "file": "figure_55_page58.jpeg",
+      "page": 58,
+      "width": 600,
+      "height": 422,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_56_page59.jpeg",
+      "page": 59,
+      "width": 600,
+      "height": 412,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_57_page59.png",
+      "page": 59,
+      "width": 800,
+      "height": 773,
+      "ext": "png"
+    },
+    {
+      "file": "figure_58_page60.jpeg",
+      "page": 60,
+      "width": 785,
+      "height": 346,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_59_page60.jpeg",
+      "page": 60,
+      "width": 600,
+      "height": 450,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_60_page61.png",
+      "page": 61,
+      "width": 1232,
+      "height": 422,
+      "ext": "png"
+    },
+    {
+      "file": "figure_61_page61.png",
+      "page": 61,
+      "width": 1280,
+      "height": 514,
+      "ext": "png"
+    },
+    {
+      "file": "figure_62_page62.png",
+      "page": 62,
+      "width": 1425,
+      "height": 268,
+      "ext": "png"
+    },
+    {
+      "file": "figure_63_page62.png",
+      "page": 62,
+      "width": 1425,
+      "height": 268,
+      "ext": "png"
+    },
+    {
+      "file": "figure_64_page62.png",
+      "page": 62,
+      "width": 1425,
+      "height": 268,
+      "ext": "png"
+    },
+    {
+      "file": "figure_65_page62.png",
+      "page": 62,
+      "width": 1425,
+      "height": 267,
+      "ext": "png"
+    },
+    {
+      "file": "figure_66_page62.png",
+      "page": 62,
+      "width": 1,
+      "height": 1369,
+      "ext": "png"
+    },
+    {
+      "file": "figure_67_page62.png",
+      "page": 62,
+      "width": 1,
+      "height": 840,
+      "ext": "png"
+    },
+    {
+      "file": "figure_68_page62.jpeg",
+      "page": 62,
+      "width": 1425,
+      "height": 161,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_69_page63.png",
+      "page": 63,
+      "width": 1280,
+      "height": 544,
+      "ext": "png"
+    },
+    {
+      "file": "figure_70_page63.png",
+      "page": 63,
+      "width": 400,
+      "height": 217,
+      "ext": "png"
+    },
+    {
+      "file": "figure_71_page67.png",
+      "page": 67,
+      "width": 262,
+      "height": 140,
+      "ext": "png"
+    },
+    {
+      "file": "figure_72_page67.jpeg",
+      "page": 67,
+      "width": 125,
+      "height": 125,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_73_page67.png",
+      "page": 67,
+      "width": 358,
+      "height": 462,
+      "ext": "png"
+    },
+    {
+      "file": "figure_74_page67.jpeg",
+      "page": 67,
+      "width": 375,
+      "height": 375,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_75_page68.png",
+      "page": 68,
+      "width": 146,
+      "height": 79,
+      "ext": "png"
+    },
+    {
+      "file": "figure_76_page68.jpeg",
+      "page": 68,
+      "width": 101,
+      "height": 100,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_77_page68.jpeg",
+      "page": 68,
+      "width": 328,
+      "height": 244,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_78_page68.jpeg",
+      "page": 68,
+      "width": 207,
+      "height": 270,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_79_page68.png",
+      "page": 68,
+      "width": 720,
+      "height": 553,
+      "ext": "png"
+    },
+    {
+      "file": "figure_80_page68.png",
+      "page": 68,
+      "width": 146,
+      "height": 79,
+      "ext": "png"
+    },
+    {
+      "file": "figure_81_page68.jpeg",
+      "page": 68,
+      "width": 101,
+      "height": 100,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_82_page68.jpeg",
+      "page": 68,
+      "width": 325,
+      "height": 244,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_83_page68.jpeg",
+      "page": 68,
+      "width": 187,
+      "height": 250,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_84_page68.jpeg",
+      "page": 68,
+      "width": 189,
+      "height": 275,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_85_page68.jpeg",
+      "page": 68,
+      "width": 157,
+      "height": 278,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_86_page68.jpeg",
+      "page": 68,
+      "width": 353,
+      "height": 270,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_87_page69.jpeg",
+      "page": 69,
+      "width": 479,
+      "height": 211,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_88_page69.jpeg",
+      "page": 69,
+      "width": 483,
+      "height": 293,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_89_page69.jpeg",
+      "page": 69,
+      "width": 473,
+      "height": 321,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_90_page69.jpeg",
+      "page": 69,
+      "width": 368,
+      "height": 246,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_91_page70.png",
+      "page": 70,
+      "width": 960,
+      "height": 601,
+      "ext": "png"
+    },
+    {
+      "file": "figure_92_page73.jpeg",
+      "page": 73,
+      "width": 2340,
+      "height": 644,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_93_page74.jpeg",
+      "page": 74,
+      "width": 606,
+      "height": 780,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_94_page74.jpeg",
+      "page": 74,
+      "width": 2340,
+      "height": 664,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_95_page76.jpeg",
+      "page": 76,
+      "width": 406,
+      "height": 406,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_96_page80.jpeg",
+      "page": 80,
+      "width": 66,
+      "height": 66,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_97_page80.jpeg",
+      "page": 80,
+      "width": 166,
+      "height": 43,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_98_page80.jpeg",
+      "page": 80,
+      "width": 84,
+      "height": 84,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_99_page80.jpeg",
+      "page": 80,
+      "width": 164,
+      "height": 57,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_100_page80.jpeg",
+      "page": 80,
+      "width": 79,
+      "height": 79,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_101_page80.png",
+      "page": 80,
+      "width": 79,
+      "height": 105,
+      "ext": "png"
+    },
+    {
+      "file": "figure_102_page80.png",
+      "page": 80,
+      "width": 87,
+      "height": 32,
+      "ext": "png"
+    },
+    {
+      "file": "figure_103_page80.jpeg",
+      "page": 80,
+      "width": 66,
+      "height": 66,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_104_page80.jpeg",
+      "page": 80,
+      "width": 166,
+      "height": 43,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_105_page80.jpeg",
+      "page": 80,
+      "width": 307,
+      "height": 109,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_106_page80.jpeg",
+      "page": 80,
+      "width": 185,
+      "height": 138,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_107_page80.jpeg",
+      "page": 80,
+      "width": 214,
+      "height": 196,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_108_page80.jpeg",
+      "page": 80,
+      "width": 307,
+      "height": 109,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_109_page80.jpeg",
+      "page": 80,
+      "width": 212,
+      "height": 357,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_110_page80.jpeg",
+      "page": 80,
+      "width": 193,
+      "height": 79,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_111_page80.jpeg",
+      "page": 80,
+      "width": 198,
+      "height": 90,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_112_page80.jpeg",
+      "page": 80,
+      "width": 109,
+      "height": 129,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_113_page80.png",
+      "page": 80,
+      "width": 388,
+      "height": 68,
+      "ext": "png"
+    },
+    {
+      "file": "figure_114_page80.jpeg",
+      "page": 80,
+      "width": 84,
+      "height": 84,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_115_page80.jpeg",
+      "page": 80,
+      "width": 164,
+      "height": 57,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_116_page80.jpeg",
+      "page": 80,
+      "width": 79,
+      "height": 79,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_117_page80.png",
+      "page": 80,
+      "width": 79,
+      "height": 105,
+      "ext": "png"
+    },
+    {
+      "file": "figure_118_page80.png",
+      "page": 80,
+      "width": 87,
+      "height": 32,
+      "ext": "png"
+    },
+    {
+      "file": "figure_119_page80.jpeg",
+      "page": 80,
+      "width": 185,
+      "height": 138,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_120_page80.jpeg",
+      "page": 80,
+      "width": 214,
+      "height": 196,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_121_page80.jpeg",
+      "page": 80,
+      "width": 212,
+      "height": 357,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_122_page80.jpeg",
+      "page": 80,
+      "width": 193,
+      "height": 79,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_123_page80.jpeg",
+      "page": 80,
+      "width": 198,
+      "height": 90,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_124_page80.jpeg",
+      "page": 80,
+      "width": 109,
+      "height": 129,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_125_page80.png",
+      "page": 80,
+      "width": 388,
+      "height": 68,
+      "ext": "png"
+    },
+    {
+      "file": "figure_126_page81.jpeg",
+      "page": 81,
+      "width": 110,
+      "height": 110,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_127_page81.jpeg",
+      "page": 81,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_128_page81.jpeg",
+      "page": 81,
+      "width": 354,
+      "height": 449,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_129_page81.jpeg",
+      "page": 81,
+      "width": 380,
+      "height": 348,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_130_page81.jpeg",
+      "page": 81,
+      "width": 541,
+      "height": 332,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_131_page82.jpeg",
+      "page": 82,
+      "width": 111,
+      "height": 111,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_132_page82.jpeg",
+      "page": 82,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_133_page82.jpeg",
+      "page": 82,
+      "width": 262,
+      "height": 221,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_134_page82.jpeg",
+      "page": 82,
+      "width": 186,
+      "height": 174,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_135_page82.jpeg",
+      "page": 82,
+      "width": 295,
+      "height": 274,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_136_page82.jpeg",
+      "page": 82,
+      "width": 197,
+      "height": 218,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_137_page83.jpeg",
+      "page": 83,
+      "width": 110,
+      "height": 110,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_138_page83.jpeg",
+      "page": 83,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_139_page83.jpeg",
+      "page": 83,
+      "width": 550,
+      "height": 170,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_140_page83.png",
+      "page": 83,
+      "width": 550,
+      "height": 170,
+      "ext": "png"
+    },
+    {
+      "file": "figure_141_page83.png",
+      "page": 83,
+      "width": 314,
+      "height": 162,
+      "ext": "png"
+    },
+    {
+      "file": "figure_142_page83.png",
+      "page": 83,
+      "width": 388,
+      "height": 152,
+      "ext": "png"
+    },
+    {
+      "file": "figure_143_page83.png",
+      "page": 83,
+      "width": 335,
+      "height": 73,
+      "ext": "png"
+    },
+    {
+      "file": "figure_144_page83.png",
+      "page": 83,
+      "width": 550,
+      "height": 170,
+      "ext": "png"
+    },
+    {
+      "file": "figure_145_page83.png",
+      "page": 83,
+      "width": 389,
+      "height": 152,
+      "ext": "png"
+    },
+    {
+      "file": "figure_146_page83.png",
+      "page": 83,
+      "width": 550,
+      "height": 170,
+      "ext": "png"
+    },
+    {
+      "file": "figure_147_page83.jpeg",
+      "page": 83,
+      "width": 388,
+      "height": 152,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_148_page83.jpeg",
+      "page": 83,
+      "width": 550,
+      "height": 170,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_149_page84.jpeg",
+      "page": 84,
+      "width": 105,
+      "height": 105,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_150_page84.jpeg",
+      "page": 84,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_151_page84.jpeg",
+      "page": 84,
+      "width": 240,
+      "height": 244,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_152_page84.jpeg",
+      "page": 84,
+      "width": 259,
+      "height": 259,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_153_page84.jpeg",
+      "page": 84,
+      "width": 139,
+      "height": 138,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_154_page84.jpeg",
+      "page": 84,
+      "width": 107,
+      "height": 107,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_155_page84.jpeg",
+      "page": 84,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_156_page84.jpeg",
+      "page": 84,
+      "width": 295,
+      "height": 374,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_157_page84.png",
+      "page": 84,
+      "width": 1,
+      "height": 442,
+      "ext": "png"
+    },
+    {
+      "file": "figure_158_page84.png",
+      "page": 84,
+      "width": 1,
+      "height": 442,
+      "ext": "png"
+    },
+    {
+      "file": "figure_159_page84.png",
+      "page": 84,
+      "width": 1,
+      "height": 442,
+      "ext": "png"
+    },
+    {
+      "file": "figure_160_page84.png",
+      "page": 84,
+      "width": 1,
+      "height": 442,
+      "ext": "png"
+    },
+    {
+      "file": "figure_161_page84.png",
+      "page": 84,
+      "width": 1,
+      "height": 442,
+      "ext": "png"
+    },
+    {
+      "file": "figure_162_page84.png",
+      "page": 84,
+      "width": 1,
+      "height": 442,
+      "ext": "png"
+    },
+    {
+      "file": "figure_163_page84.png",
+      "page": 84,
+      "width": 1,
+      "height": 548,
+      "ext": "png"
+    },
+    {
+      "file": "figure_164_page84.png",
+      "page": 84,
+      "width": 1,
+      "height": 548,
+      "ext": "png"
+    },
+    {
+      "file": "figure_165_page85.jpeg",
+      "page": 85,
+      "width": 107,
+      "height": 107,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_166_page85.jpeg",
+      "page": 85,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_167_page85.jpeg",
+      "page": 85,
+      "width": 280,
+      "height": 200,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_168_page85.jpeg",
+      "page": 85,
+      "width": 182,
+      "height": 286,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_169_page85.jpeg",
+      "page": 85,
+      "width": 697,
+      "height": 122,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_170_page85.png",
+      "page": 85,
+      "width": 542,
+      "height": 96,
+      "ext": "png"
+    },
+    {
+      "file": "figure_171_page86.jpeg",
+      "page": 86,
+      "width": 110,
+      "height": 110,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_172_page86.jpeg",
+      "page": 86,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_173_page86.jpeg",
+      "page": 86,
+      "width": 292,
+      "height": 325,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_174_page86.jpeg",
+      "page": 86,
+      "width": 294,
+      "height": 248,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_175_page86.jpeg",
+      "page": 86,
+      "width": 110,
+      "height": 110,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_176_page86.jpeg",
+      "page": 86,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_177_page86.jpeg",
+      "page": 86,
+      "width": 524,
+      "height": 216,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_178_page87.jpeg",
+      "page": 87,
+      "width": 111,
+      "height": 111,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_179_page87.jpeg",
+      "page": 87,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_180_page87.jpeg",
+      "page": 87,
+      "width": 324,
+      "height": 429,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_181_page87.jpeg",
+      "page": 87,
+      "width": 663,
+      "height": 479,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_182_page87.jpeg",
+      "page": 87,
+      "width": 521,
+      "height": 387,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_183_page87.png",
+      "page": 87,
+      "width": 740,
+      "height": 254,
+      "ext": "png"
+    },
+    {
+      "file": "figure_184_page87.jpeg",
+      "page": 87,
+      "width": 239,
+      "height": 318,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_185_page88.jpeg",
+      "page": 88,
+      "width": 109,
+      "height": 109,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_186_page88.jpeg",
+      "page": 88,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_187_page88.jpeg",
+      "page": 88,
+      "width": 328,
+      "height": 410,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_188_page88.jpeg",
+      "page": 88,
+      "width": 110,
+      "height": 110,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_189_page88.jpeg",
+      "page": 88,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_190_page88.jpeg",
+      "page": 88,
+      "width": 247,
+      "height": 308,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_191_page89.jpeg",
+      "page": 89,
+      "width": 109,
+      "height": 109,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_192_page89.jpeg",
+      "page": 89,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_193_page89.jpeg",
+      "page": 89,
+      "width": 218,
+      "height": 308,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_194_page89.jpeg",
+      "page": 89,
+      "width": 172,
+      "height": 300,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_195_page90.jpeg",
+      "page": 90,
+      "width": 110,
+      "height": 110,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_196_page90.jpeg",
+      "page": 90,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_197_page90.png",
+      "page": 90,
+      "width": 1,
+      "height": 585,
+      "ext": "png"
+    },
+    {
+      "file": "figure_198_page90.png",
+      "page": 90,
+      "width": 1,
+      "height": 585,
+      "ext": "png"
+    },
+    {
+      "file": "figure_199_page90.jpeg",
+      "page": 90,
+      "width": 304,
+      "height": 339,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_200_page90.jpeg",
+      "page": 90,
+      "width": 110,
+      "height": 110,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_201_page90.jpeg",
+      "page": 90,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_202_page90.jpeg",
+      "page": 90,
+      "width": 293,
+      "height": 122,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_203_page91.jpeg",
+      "page": 91,
+      "width": 110,
+      "height": 110,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_204_page91.jpeg",
+      "page": 91,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_205_page91.jpeg",
+      "page": 91,
+      "width": 396,
+      "height": 441,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_206_page91.jpeg",
+      "page": 91,
+      "width": 110,
+      "height": 110,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_207_page91.jpeg",
+      "page": 91,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_208_page91.jpeg",
+      "page": 91,
+      "width": 392,
+      "height": 162,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_209_page92.jpeg",
+      "page": 92,
+      "width": 110,
+      "height": 110,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_210_page92.jpeg",
+      "page": 92,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_211_page92.jpeg",
+      "page": 92,
+      "width": 405,
+      "height": 167,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_212_page92.jpeg",
+      "page": 92,
+      "width": 199,
+      "height": 264,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_213_page92.jpeg",
+      "page": 92,
+      "width": 243,
+      "height": 204,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_214_page92.jpeg",
+      "page": 92,
+      "width": 110,
+      "height": 110,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_215_page92.jpeg",
+      "page": 92,
+      "width": 378,
+      "height": 96,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_216_page92.png",
+      "page": 92,
+      "width": 2060,
+      "height": 495,
+      "ext": "png"
+    },
+    {
+      "file": "figure_217_page92.jpeg",
+      "page": 92,
+      "width": 459,
+      "height": 166,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_218_page92.jpeg",
+      "page": 92,
+      "width": 145,
+      "height": 145,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_219_page104.png",
+      "page": 104,
+      "width": 1514,
+      "height": 656,
+      "ext": "png"
+    },
+    {
+      "file": "figure_220_page104.png",
+      "page": 104,
+      "width": 1514,
+      "height": 657,
+      "ext": "png"
+    },
+    {
+      "file": "figure_221_page104.png",
+      "page": 104,
+      "width": 1514,
+      "height": 656,
+      "ext": "png"
+    },
+    {
+      "file": "figure_222_page110.jpeg",
+      "page": 110,
+      "width": 2451,
+      "height": 3213,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_223_page110.png",
+      "page": 110,
+      "width": 215,
+      "height": 371,
+      "ext": "png"
+    },
+    {
+      "file": "figure_224_page110.jpeg",
+      "page": 110,
+      "width": 1795,
+      "height": 346,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_225_page110.png",
+      "page": 110,
+      "width": 140,
+      "height": 460,
+      "ext": "png"
+    },
+    {
+      "file": "figure_226_page110.jpeg",
+      "page": 110,
+      "width": 1657,
+      "height": 231,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_227_page110.png",
+      "page": 110,
+      "width": 856,
+      "height": 603,
+      "ext": "png"
+    },
+    {
+      "file": "figure_228_page110.png",
+      "page": 110,
+      "width": 259,
+      "height": 421,
+      "ext": "png"
+    },
+    {
+      "file": "figure_229_page110.png",
+      "page": 110,
+      "width": 393,
+      "height": 603,
+      "ext": "png"
+    }
+  ]
+}

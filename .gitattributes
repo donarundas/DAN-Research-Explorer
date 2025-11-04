@@ -1,0 +1,33 @@
+# ----------------------------
+# GIT LFS CONFIGURATION
+# ----------------------------
+# These file types are stored using Git LFS
+*.faiss filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.tar filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+*.npz filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+# ----------------------------
+# TREAT TEXT FILES AS NORMAL
+# ----------------------------
+*.py text
+*.md text
+*.txt text
+*.csv text
+*.json text
+*.yml text
+*.yaml text
+*.toml text
+# ----------------------------
+# MARK OS-SPECIFIC FILES AS BINARY
+# ----------------------------
+.DS_Store binary
+Thumbs.db binary

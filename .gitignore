@@ -1,0 +1,89 @@
+# ----------------------------
+# SYSTEM & EDITOR FILES
+# ----------------------------
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+.idea/
+.vscode/
+
+# ----------------------------
+# STREAMLIT / ENVIRONMENT
+# ----------------------------
+.streamlit/secrets.toml
+logs/
+.cache/
+.history/
+*.log
+
+# ----------------------------
+# GENERATED DATA / ARTIFACTS
+# ----------------------------
+# LLM outputs
+*.md
+*.txt
+*.jsonl
+*.rtf
+
+# Tables / extracted data
+*.csv
+tables/
+extracted/
+figures/
+images/
+
+# ----------------------------
+# EMBEDDING & INDEX FILES
+# ----------------------------
+index/
+*.faiss
+*.h5
+*.npy
+*.npz
+*.pkl
+*.bin
+
+# ----------------------------
+# PROJECT OUTPUTS
+# ----------------------------
+/Users/donarundas/Projects/DAN/DAN_Publications/**
+!DAN_Publications/**/*.pdf   # ✅ keep PDFs for reference
+*.zip
+*.tar
+*.gz
+
+# ----------------------------
+# BACKUPS / CHECKPOINTS
+# ----------------------------
+checkpoints/
+*.bak
+*.old
+*.swp
+*.tmp
+
+# ----------------------------
+# NOTEBOOKS / EXPERIMENTAL FILES
+# ----------------------------
+*.ipynb
+notebooks/
+experiments/
+
+# ----------------------------
+# LOCAL DEPLOYMENT FILES
+# ----------------------------
+test_*/ 
+dev_*/ 
+__test__/ 
+__debug__/
+
+# ----------------------------
+# OPTIONAL: IGNORE GIT LFS LOCKS
+# ----------------------------
+*.lock
+*.lfs

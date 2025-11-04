@@ -1,0 +1,886 @@
+{
+  "source_pdf": "2014_Medical_Examination_of_Diving_Fatalities_Symposium.pdf",
+  "sha256": "bb12c4033bd68727af09d94fc41a7e45651f75a750817bd2cf758de623d6f2a0",
+  "created_utc": "2025-11-02T15:59:59.572130Z",
+  "markitdown_version": "unknown",
+  "python": "3.12.6",
+  "os": "macOS-15.6.1-arm64-arm-64bit",
+  "tables": [],
+  "errors": [],
+  "markitdown_metadata": {},
+  "phase2_run": "2025-11-02T16:53:06.501703Z",
+  "tables_found": 94,
+  "table_details": [
+    {
+      "id": "TABLE_01",
+      "page": 11,
+      "engine": "camelot",
+      "file": "table_01_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_02",
+      "page": 16,
+      "engine": "camelot",
+      "file": "table_02_camelot.csv",
+      "rows": 11
+    },
+    {
+      "id": "TABLE_03",
+      "page": 17,
+      "engine": "camelot",
+      "file": "table_03_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_04",
+      "page": 18,
+      "engine": "camelot",
+      "file": "table_04_camelot.csv",
+      "rows": 5
+    },
+    {
+      "id": "TABLE_05",
+      "page": 20,
+      "engine": "camelot",
+      "file": "table_05_camelot.csv",
+      "rows": 5
+    },
+    {
+      "id": "TABLE_06",
+      "page": 37,
+      "engine": "camelot",
+      "file": "table_06_camelot.csv",
+      "rows": 1
+    },
+    {
+      "id": "TABLE_07",
+      "page": 43,
+      "engine": "camelot",
+      "file": "table_07_camelot.csv",
+      "rows": 1
+    },
+    {
+      "id": "TABLE_08",
+      "page": 45,
+      "engine": "camelot",
+      "file": "table_08_camelot.csv",
+      "rows": 5
+    },
+    {
+      "id": "TABLE_09",
+      "page": 47,
+      "engine": "camelot",
+      "file": "table_09_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_10",
+      "page": 47,
+      "engine": "camelot",
+      "file": "table_10_camelot.csv",
+      "rows": 7
+    },
+    {
+      "id": "TABLE_11",
+      "page": 49,
+      "engine": "camelot",
+      "file": "table_11_camelot.csv",
+      "rows": 2
+    },
+    {
+      "id": "TABLE_12",
+      "page": 49,
+      "engine": "camelot",
+      "file": "table_12_camelot.csv",
+      "rows": 1
+    },
+    {
+      "id": "TABLE_13",
+      "page": 50,
+      "engine": "camelot",
+      "file": "table_13_camelot.csv",
+      "rows": 4
+    },
+    {
+      "id": "TABLE_14",
+      "page": 50,
+      "engine": "camelot",
+      "file": "table_14_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_15",
+      "page": 54,
+      "engine": "camelot",
+      "file": "table_15_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_16",
+      "page": 1,
+      "engine": "camelot",
+      "file": "table_16_camelot.csv",
+      "rows": 11
+    },
+    {
+      "id": "TABLE_17",
+      "page": 2,
+      "engine": "camelot",
+      "file": "table_17_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_18",
+      "page": 3,
+      "engine": "camelot",
+      "file": "table_18_camelot.csv",
+      "rows": 13
+    },
+    {
+      "id": "TABLE_19",
+      "page": 4,
+      "engine": "camelot",
+      "file": "table_19_camelot.csv",
+      "rows": 18
+    },
+    {
+      "id": "TABLE_20",
+      "page": 5,
+      "engine": "camelot",
+      "file": "table_20_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_21",
+      "page": 6,
+      "engine": "camelot",
+      "file": "table_21_camelot.csv",
+      "rows": 8
+    },
+    {
+      "id": "TABLE_22",
+      "page": 7,
+      "engine": "camelot",
+      "file": "table_22_camelot.csv",
+      "rows": 32
+    },
+    {
+      "id": "TABLE_23",
+      "page": 8,
+      "engine": "camelot",
+      "file": "table_23_camelot.csv",
+      "rows": 37
+    },
+    {
+      "id": "TABLE_24",
+      "page": 9,
+      "engine": "camelot",
+      "file": "table_24_camelot.csv",
+      "rows": 32
+    },
+    {
+      "id": "TABLE_25",
+      "page": 10,
+      "engine": "camelot",
+      "file": "table_25_camelot.csv",
+      "rows": 44
+    },
+    {
+      "id": "TABLE_26",
+      "page": 11,
+      "engine": "camelot",
+      "file": "table_26_camelot.csv",
+      "rows": 13
+    },
+    {
+      "id": "TABLE_27",
+      "page": 12,
+      "engine": "camelot",
+      "file": "table_27_camelot.csv",
+      "rows": 29
+    },
+    {
+      "id": "TABLE_28",
+      "page": 13,
+      "engine": "camelot",
+      "file": "table_28_camelot.csv",
+      "rows": 22
+    },
+    {
+      "id": "TABLE_29",
+      "page": 14,
+      "engine": "camelot",
+      "file": "table_29_camelot.csv",
+      "rows": 19
+    },
+    {
+      "id": "TABLE_30",
+      "page": 15,
+      "engine": "camelot",
+      "file": "table_30_camelot.csv",
+      "rows": 11
+    },
+    {
+      "id": "TABLE_31",
+      "page": 15,
+      "engine": "camelot",
+      "file": "table_31_camelot.csv",
+      "rows": 16
+    },
+    {
+      "id": "TABLE_32",
+      "page": 16,
+      "engine": "camelot",
+      "file": "table_32_camelot.csv",
+      "rows": 14
+    },
+    {
+      "id": "TABLE_33",
+      "page": 17,
+      "engine": "camelot",
+      "file": "table_33_camelot.csv",
+      "rows": 7
+    },
+    {
+      "id": "TABLE_34",
+      "page": 17,
+      "engine": "camelot",
+      "file": "table_34_camelot.csv",
+      "rows": 8
+    },
+    {
+      "id": "TABLE_35",
+      "page": 18,
+      "engine": "camelot",
+      "file": "table_35_camelot.csv",
+      "rows": 18
+    },
+    {
+      "id": "TABLE_36",
+      "page": 18,
+      "engine": "camelot",
+      "file": "table_36_camelot.csv",
+      "rows": 11
+    },
+    {
+      "id": "TABLE_37",
+      "page": 19,
+      "engine": "camelot",
+      "file": "table_37_camelot.csv",
+      "rows": 21
+    },
+    {
+      "id": "TABLE_38",
+      "page": 19,
+      "engine": "camelot",
+      "file": "table_38_camelot.csv",
+      "rows": 12
+    },
+    {
+      "id": "TABLE_39",
+      "page": 20,
+      "engine": "camelot",
+      "file": "table_39_camelot.csv",
+      "rows": 8
+    },
+    {
+      "id": "TABLE_40",
+      "page": 21,
+      "engine": "camelot",
+      "file": "table_40_camelot.csv",
+      "rows": 21
+    },
+    {
+      "id": "TABLE_41",
+      "page": 22,
+      "engine": "camelot",
+      "file": "table_41_camelot.csv",
+      "rows": 34
+    },
+    {
+      "id": "TABLE_42",
+      "page": 23,
+      "engine": "camelot",
+      "file": "table_42_camelot.csv",
+      "rows": 41
+    },
+    {
+      "id": "TABLE_43",
+      "page": 24,
+      "engine": "camelot",
+      "file": "table_43_camelot.csv",
+      "rows": 44
+    },
+    {
+      "id": "TABLE_44",
+      "page": 25,
+      "engine": "camelot",
+      "file": "table_44_camelot.csv",
+      "rows": 41
+    },
+    {
+      "id": "TABLE_45",
+      "page": 26,
+      "engine": "camelot",
+      "file": "table_45_camelot.csv",
+      "rows": 43
+    },
+    {
+      "id": "TABLE_46",
+      "page": 27,
+      "engine": "camelot",
+      "file": "table_46_camelot.csv",
+      "rows": 22
+    },
+    {
+      "id": "TABLE_47",
+      "page": 28,
+      "engine": "camelot",
+      "file": "table_47_camelot.csv",
+      "rows": 39
+    },
+    {
+      "id": "TABLE_48",
+      "page": 29,
+      "engine": "camelot",
+      "file": "table_48_camelot.csv",
+      "rows": 15
+    },
+    {
+      "id": "TABLE_49",
+      "page": 30,
+      "engine": "camelot",
+      "file": "table_49_camelot.csv",
+      "rows": 33
+    },
+    {
+      "id": "TABLE_50",
+      "page": 31,
+      "engine": "camelot",
+      "file": "table_50_camelot.csv",
+      "rows": 28
+    },
+    {
+      "id": "TABLE_51",
+      "page": 31,
+      "engine": "camelot",
+      "file": "table_51_camelot.csv",
+      "rows": 9
+    },
+    {
+      "id": "TABLE_52",
+      "page": 32,
+      "engine": "camelot",
+      "file": "table_52_camelot.csv",
+      "rows": 44
+    },
+    {
+      "id": "TABLE_53",
+      "page": 33,
+      "engine": "camelot",
+      "file": "table_53_camelot.csv",
+      "rows": 40
+    },
+    {
+      "id": "TABLE_54",
+      "page": 34,
+      "engine": "camelot",
+      "file": "table_54_camelot.csv",
+      "rows": 21
+    },
+    {
+      "id": "TABLE_55",
+      "page": 35,
+      "engine": "camelot",
+      "file": "table_55_camelot.csv",
+      "rows": 33
+    },
+    {
+      "id": "TABLE_56",
+      "page": 36,
+      "engine": "camelot",
+      "file": "table_56_camelot.csv",
+      "rows": 44
+    },
+    {
+      "id": "TABLE_57",
+      "page": 37,
+      "engine": "camelot",
+      "file": "table_57_camelot.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_58",
+      "page": 38,
+      "engine": "camelot",
+      "file": "table_58_camelot.csv",
+      "rows": 26
+    },
+    {
+      "id": "TABLE_59",
+      "page": 39,
+      "engine": "camelot",
+      "file": "table_59_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_60",
+      "page": 40,
+      "engine": "camelot",
+      "file": "table_60_camelot.csv",
+      "rows": 45
+    },
+    {
+      "id": "TABLE_61",
+      "page": 41,
+      "engine": "camelot",
+      "file": "table_61_camelot.csv",
+      "rows": 23
+    },
+    {
+      "id": "TABLE_62",
+      "page": 42,
+      "engine": "camelot",
+      "file": "table_62_camelot.csv",
+      "rows": 18
+    },
+    {
+      "id": "TABLE_63",
+      "page": 43,
+      "engine": "camelot",
+      "file": "table_63_camelot.csv",
+      "rows": 18
+    },
+    {
+      "id": "TABLE_64",
+      "page": 44,
+      "engine": "camelot",
+      "file": "table_64_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_65",
+      "page": 45,
+      "engine": "camelot",
+      "file": "table_65_camelot.csv",
+      "rows": 14
+    },
+    {
+      "id": "TABLE_66",
+      "page": 46,
+      "engine": "camelot",
+      "file": "table_66_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_67",
+      "page": 47,
+      "engine": "camelot",
+      "file": "table_67_camelot.csv",
+      "rows": 8
+    },
+    {
+      "id": "TABLE_68",
+      "page": 48,
+      "engine": "camelot",
+      "file": "table_68_camelot.csv",
+      "rows": 18
+    },
+    {
+      "id": "TABLE_69",
+      "page": 49,
+      "engine": "camelot",
+      "file": "table_69_camelot.csv",
+      "rows": 43
+    },
+    {
+      "id": "TABLE_70",
+      "page": 50,
+      "engine": "camelot",
+      "file": "table_70_camelot.csv",
+      "rows": 14
+    },
+    {
+      "id": "TABLE_71",
+      "page": 51,
+      "engine": "camelot",
+      "file": "table_71_camelot.csv",
+      "rows": 18
+    },
+    {
+      "id": "TABLE_72",
+      "page": 52,
+      "engine": "camelot",
+      "file": "table_72_camelot.csv",
+      "rows": 18
+    },
+    {
+      "id": "TABLE_73",
+      "page": 53,
+      "engine": "camelot",
+      "file": "table_73_camelot.csv",
+      "rows": 20
+    },
+    {
+      "id": "TABLE_74",
+      "page": 54,
+      "engine": "camelot",
+      "file": "table_74_camelot.csv",
+      "rows": 8
+    },
+    {
+      "id": "TABLE_75",
+      "page": 55,
+      "engine": "camelot",
+      "file": "table_75_camelot.csv",
+      "rows": 16
+    },
+    {
+      "id": "TABLE_76",
+      "page": 56,
+      "engine": "camelot",
+      "file": "table_76_camelot.csv",
+      "rows": 19
+    },
+    {
+      "id": "TABLE_77",
+      "page": 56,
+      "engine": "camelot",
+      "file": "table_77_camelot.csv",
+      "rows": 14
+    },
+    {
+      "id": "TABLE_78",
+      "page": 57,
+      "engine": "camelot",
+      "file": "table_78_camelot.csv",
+      "rows": 32
+    },
+    {
+      "id": "TABLE_79",
+      "page": 58,
+      "engine": "camelot",
+      "file": "table_79_camelot.csv",
+      "rows": 34
+    },
+    {
+      "id": "TABLE_80",
+      "page": 59,
+      "engine": "camelot",
+      "file": "table_80_camelot.csv",
+      "rows": 10
+    },
+    {
+      "id": "TABLE_81",
+      "page": 59,
+      "engine": "camelot",
+      "file": "table_81_camelot.csv",
+      "rows": 17
+    },
+    {
+      "id": "TABLE_82",
+      "page": 60,
+      "engine": "camelot",
+      "file": "table_82_camelot.csv",
+      "rows": 32
+    },
+    {
+      "id": "TABLE_83",
+      "page": 61,
+      "engine": "camelot",
+      "file": "table_83_camelot.csv",
+      "rows": 8
+    },
+    {
+      "id": "TABLE_84",
+      "page": 62,
+      "engine": "camelot",
+      "file": "table_84_camelot.csv",
+      "rows": 35
+    },
+    {
+      "id": "TABLE_85",
+      "page": 63,
+      "engine": "camelot",
+      "file": "table_85_camelot.csv",
+      "rows": 33
+    },
+    {
+      "id": "TABLE_86",
+      "page": 64,
+      "engine": "camelot",
+      "file": "table_86_camelot.csv",
+      "rows": 44
+    },
+    {
+      "id": "TABLE_87",
+      "page": 65,
+      "engine": "camelot",
+      "file": "table_87_camelot.csv",
+      "rows": 15
+    },
+    {
+      "id": "TABLE_88",
+      "page": 65,
+      "engine": "camelot",
+      "file": "table_88_camelot.csv",
+      "rows": 17
+    },
+    {
+      "id": "TABLE_89",
+      "page": 66,
+      "engine": "camelot",
+      "file": "table_89_camelot.csv",
+      "rows": 11
+    },
+    {
+      "id": "TABLE_90",
+      "page": 16,
+      "engine": "pdfplumber",
+      "file": "table_90_pdfplumber.csv",
+      "rows": 11
+    },
+    {
+      "id": "TABLE_91",
+      "page": 17,
+      "engine": "pdfplumber",
+      "file": "table_91_pdfplumber.csv",
+      "rows": 6
+    },
+    {
+      "id": "TABLE_92",
+      "page": 18,
+      "engine": "pdfplumber",
+      "file": "table_92_pdfplumber.csv",
+      "rows": 5
+    },
+    {
+      "id": "TABLE_93",
+      "page": 20,
+      "engine": "pdfplumber",
+      "file": "table_93_pdfplumber.csv",
+      "rows": 5
+    },
+    {
+      "id": "TABLE_94",
+      "page": 58,
+      "engine": "pdfplumber",
+      "file": "table_94_pdfplumber.csv",
+      "rows": 2
+    }
+  ],
+  "images_found": 30,
+  "image_details": [
+    {
+      "file": "figure_01_page1.jpeg",
+      "page": 1,
+      "width": 865,
+      "height": 1104,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_02_page11.png",
+      "page": 11,
+      "width": 573,
+      "height": 294,
+      "ext": "png"
+    },
+    {
+      "file": "figure_03_page13.png",
+      "page": 13,
+      "width": 478,
+      "height": 359,
+      "ext": "png"
+    },
+    {
+      "file": "figure_04_page14.jpeg",
+      "page": 14,
+      "width": 514,
+      "height": 379,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_05_page17.jpeg",
+      "page": 17,
+      "width": 720,
+      "height": 491,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_06_page37.png",
+      "page": 37,
+      "width": 400,
+      "height": 348,
+      "ext": "png"
+    },
+    {
+      "file": "figure_07_page38.jpeg",
+      "page": 38,
+      "width": 529,
+      "height": 341,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_08_page39.jpeg",
+      "page": 39,
+      "width": 720,
+      "height": 482,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_09_page39.jpeg",
+      "page": 39,
+      "width": 437,
+      "height": 339,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_10_page41.jpeg",
+      "page": 41,
+      "width": 527,
+      "height": 331,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_11_page43.jpeg",
+      "page": 43,
+      "width": 535,
+      "height": 424,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_12_page44.png",
+      "page": 44,
+      "width": 467,
+      "height": 326,
+      "ext": "png"
+    },
+    {
+      "file": "figure_13_page45.jpeg",
+      "page": 45,
+      "width": 681,
+      "height": 568,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_14_page46.png",
+      "page": 46,
+      "width": 589,
+      "height": 435,
+      "ext": "png"
+    },
+    {
+      "file": "figure_15_page47.png",
+      "page": 47,
+      "width": 496,
+      "height": 386,
+      "ext": "png"
+    },
+    {
+      "file": "figure_16_page47.jpeg",
+      "page": 47,
+      "width": 533,
+      "height": 434,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_17_page48.jpeg",
+      "page": 48,
+      "width": 726,
+      "height": 548,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_18_page49.jpeg",
+      "page": 49,
+      "width": 278,
+      "height": 693,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_19_page49.jpeg",
+      "page": 49,
+      "width": 299,
+      "height": 303,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_20_page50.png",
+      "page": 50,
+      "width": 466,
+      "height": 336,
+      "ext": "png"
+    },
+    {
+      "file": "figure_21_page50.png",
+      "page": 50,
+      "width": 776,
+      "height": 301,
+      "ext": "png"
+    },
+    {
+      "file": "figure_22_page51.png",
+      "page": 51,
+      "width": 440,
+      "height": 361,
+      "ext": "png"
+    },
+    {
+      "file": "figure_23_page52.jpeg",
+      "page": 52,
+      "width": 535,
+      "height": 418,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_24_page52.jpeg",
+      "page": 52,
+      "width": 338,
+      "height": 274,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_25_page53.jpeg",
+      "page": 53,
+      "width": 719,
+      "height": 280,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_26_page54.png",
+      "page": 54,
+      "width": 682,
+      "height": 364,
+      "ext": "png"
+    },
+    {
+      "file": "figure_27_page54.jpeg",
+      "page": 54,
+      "width": 654,
+      "height": 342,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_28_page55.jpeg",
+      "page": 55,
+      "width": 955,
+      "height": 526,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_29_page59.jpeg",
+      "page": 59,
+      "width": 428,
+      "height": 440,
+      "ext": "jpeg"
+    },
+    {
+      "file": "figure_30_page66.jpeg",
+      "page": 66,
+      "width": 865,
+      "height": 1104,
+      "ext": "jpeg"
+    }
+  ]
+}
