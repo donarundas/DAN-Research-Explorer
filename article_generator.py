@@ -1,6 +1,7 @@
 # /Users/donarundas/Projects/DAN/article_generator.py
 from openai import OpenAI
 from datetime import datetime
+from pathlib import Path  # ✅ this line fixes the NameError
 from dotenv import load_dotenv
 import os
 
@@ -10,39 +11,63 @@ client = OpenAI(api_key=api_key)
 
 SYSTEM_PROMPT = """
 You are a scientific summarizer for diving and hyperbaric research.
-Write a clear, structured Markdown article using provided retrieved snippets.
-Each factual statement must cite its source using the pattern (DAN <year>, p.<page>).
-Include section headers (##) and bullet points where appropriate.
-If tables or figures are referenced, label them as 'Table X' or 'Figure Y' and note the source.
+Write a clear, structured Markdown article using the provided snippets.
+Guidelines:
+- Use section headers (##) and short paragraphs.
+- Where possible, cite sources in-text like (DAN 2005) or (DAN 2019).
+- If a page number is provided in the source label, you may include it (e.g. p.32),
+  but do NOT insist on page numbers if they are not available.
+- At the end, add a short "References" section summarizing which DAN documents were used.
 """
 
 def build_prompt(query, results):
-    """Builds combined context for GPT-5 with metadata and content snippets."""
-    context_blocks = []
-    for r in results[:10]:
-        source = r.get("source", "Unknown Source")
-        page = r.get("page", "?")
+    """
+    Construct a prompt with meaningful snippets and source labels.
+    """
+    blocks = []
+    for r in results:
+        src = r.get("source", "Unknown source")
+        page = r.get("page", None)
         snippet = r.get("preview", "").strip()
-        context_blocks.append(f"### {source} (Page {page})\n{snippet}")
-    context = "\n\n".join(context_blocks)
+
+        # Derive publication folder name for context
+        pub_name = Path(src).parent.name if "/" in src or "\\" in src else src
+        if page:
+            label = f"{pub_name} (p.{page})"
+        else:
+            label = pub_name
+
+        block = f"### {label}\n{snippet}"
+        blocks.append(block)
+
+    context = "\n\n".join(blocks)
 
     return f"""
-User query: {query}
+User query:
+{query}
 
-You will synthesize information into a structured article that:
-- Summarizes the findings from these DAN publications
-- Mentions tables and figures by label if relevant
-- Includes inline citations (DAN YEAR, p.PAGE)
-- Ends with a References section listing each source
+You are given context snippets from DAN publications:
 
-Retrieved context:
 {context}
+
+Write a cohesive, well-structured Markdown article that:
+- Answers the query in a scientific, neutral tone.
+- Integrates insights from multiple sources.
+- Uses inline citations like (DAN 2005) or (DAN 2019) when you clearly infer
+  which publication the information came from.
+- Ends with a "References" section listing each DAN publication that appears
+  in the context (you may reuse the folder-style names as titles).
 """
 
 def generate_article(query, results):
-    """Streams GPT-5 output live to console and returns Markdown."""
+    """
+    Streams GPT-5 output to console and returns full Markdown.
+    """
     prompt = build_prompt(query, results)
-    print(f"\n🧠 Generating GPT-5 article for query: {query}\n")
+
+    print("──────────────────────────────────────────────")
+    print(f"🧠 Starting GPT-5 Article Generation for Query: {query}")
+    print("──────────────────────────────────────────────\n")
 
     stream = client.chat.completions.create(
         model="gpt-5",
@@ -54,13 +79,17 @@ def generate_article(query, results):
         max_completion_tokens=2000,
     )
 
-    collected = []
+    chunks = []
     for event in stream:
         if token := event.choices[0].delta.content:
             print(token, end="", flush=True)
-            collected.append(token)
+            chunks.append(token)
 
-    article = "".join(collected)
-    print("\n\n✅ Article generation complete.")
-    print(f"🕒 {datetime.utcnow().isoformat()}Z\n")
+    article = "".join(chunks)
+
+    print("\n\n──────────────────────────────────────────────")
+    print("✅ GPT-5 Article Generation Complete")
+    print(f"🕒 {datetime.utcnow().isoformat()}Z")
+    print("──────────────────────────────────────────────\n")
+
     return article

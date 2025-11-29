@@ -1,0 +1,9 @@
+{
+  "built_at": "2025-11-28T17:55:05+00:00",
+  "chunks_source": "data/ingestion_jsonl/dan_chunks_v1.jsonl.zst",
+  "faiss_index": "data/faiss_index_dan_v1/index.faiss",
+  "idmap": "data/faiss_index_dan_v1/idmap.npy",
+  "embedding_model": "text-embedding-3-large",
+  "index_type": "IndexFlatIP (L2-normalised cosine)",
+  "total_chunks_indexed": 24551
+}
